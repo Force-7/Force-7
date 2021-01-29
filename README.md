@@ -60,10 +60,7 @@ Frameworks:
 
 <i>Follow me around the web:</i><br>
 
-<-- <a target="_blank" href="https://www.linkedin.com/in/michał-pawełczyk-7a55461b6/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-<a target="_blank" href="https://www.instagram.com/forcus7/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
-<a target="_blank" href="https://www.facebook.com/profile.php?id=100000680847293">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
-<a target="_blank" href="https://open.spotify.com/user/1173758352">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
+
 
 <a href="https://www.linkedin.com/in/michał-pawełczyk-7a55461b6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/forcus7/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
