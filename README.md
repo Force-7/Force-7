@@ -15,7 +15,7 @@ You can find me on:
 
 - Github: ![GitHub followers](https://img.shields.io/github/followers/force-7?label=Followers&style=flat-square&logo=github)
 - [LinkedIn](https://www.linkedin.com/in/michał-pawełczyk-7a55461b6/): ![LinkedIn](https://img.shields.io/badge/Name-Michał%20Pawełczyk-blue?style=flat-square&logo=linkedin)
-- Discord: ![Discord](https://img.shields.io/badge/Tag-Force%0761-blue?style=flat-square&logo=discord)
+- Discord: ![Discord](https://img.shields.io/badge/Tag-Force#0761-blue?style=flat-square&logo=discord)
 
 
 
