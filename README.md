@@ -14,7 +14,7 @@ Little bit about me:
 You can find me on:
 
 - Github: ![GitHub followers](https://img.shields.io/github/followers/force-7?label=Followers&style=flat-square&logo=github)
-- [LinkedIn](https://www.linkedin.com/in/michał-pawełczyk-7a55461b6/): ![LinkedIn](https://img.shields.io/badge/Name-Michał%20Pawełczyk-blue?style=flat-square&logo=linkedin)
+- [LinkedIn](https://www.linkedin.com/in/michał-pawełczyk-7a55461b6/): ![LinkedIn](https://img.shields.io/badge/Name:-Michał%20Pawełczyk-blue?style=flat-square&logo=linkedin)
 - Discord: ![Discord](https://img.shields.io/badge/Tag-Force#0761-blue?style=flat-square&logo=discord)
 
 
@@ -43,9 +43,9 @@ Frameworks:
 
 ## Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deviljin112&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=force-7&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Force's github stats](https://github-readme-stats.vercel.app/api?username=deviljin112&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Force's github stats](https://github-readme-stats.vercel.app/api?username=force-7&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 
