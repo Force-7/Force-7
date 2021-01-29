@@ -1,5 +1,7 @@
 # About me
 
+<div align="center">
+
 Hi I'm Michał, also known as Force.
 </br>
 
@@ -40,6 +42,7 @@ Frameworks:
 ![Git](https://img.shields.io/badge/Tool-Git-blue?style=flat-square&logo=git) ![Github](https://img.shields.io/badge/Tool-Github-blue?style=flat-square&logo=github)![Trello](https://img.shields.io/badge/Tool-Trello-blue?style=flat-square&logo=trello) ![MySQL](https://img.shields.io/badge/Tool-MySQL-blue?style=flat-square&logo=MySQL) ![SQLite](https://img.shields.io/badge/Tool-SQLite-blue?style=flat-square&logo=SQLite)
 
 </br>
+</div>
 
 ## Stats
 
