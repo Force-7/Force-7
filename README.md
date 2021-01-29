@@ -43,11 +43,11 @@ Frameworks:
 
 ## Stats
 
+<div align="center">
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=force-7&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Force's github stats](https://github-readme-stats.vercel.app/api?username=force-7&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<div align="center">
 
 </br>
 </br>
