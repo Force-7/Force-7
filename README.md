@@ -13,9 +13,9 @@ Little bit about me:
 
 You can find me on:
 
-⇝ Github: ![GitHub followers](https://img.shields.io/github/followers/force-7?label=Followers&style=flat-square&logo=github)
-⇝ [LinkedIn](https://www.linkedin.com/in/michał-pawełczyk-7a55461b6/): ![LinkedIn](https://img.shields.io/badge/Name-Michał%20Pawełczyk-blue?style=flat-square&logo=linkedin)
-⇝ Discord: ![Discord](https://img.shields.io/badge/Tag-Force%0761-blue?style=flat-square&logo=discord)
+- Github: ![GitHub followers](https://img.shields.io/github/followers/force-7?label=Followers&style=flat-square&logo=github)
+- [LinkedIn](https://www.linkedin.com/in/michał-pawełczyk-7a55461b6/): ![LinkedIn](https://img.shields.io/badge/Name-Michał%20Pawełczyk-blue?style=flat-square&logo=linkedin)
+- Discord: ![Discord](https://img.shields.io/badge/Tag-Force%0761-blue?style=flat-square&logo=discord)
 
 
 
@@ -51,7 +51,7 @@ Frameworks:
 
 </br>
 </br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<i>Random dev joke for you!</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes Card"></a>
 
 <i>Happy Coding!</i>
