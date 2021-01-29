@@ -1,13 +1,13 @@
-# About me
-
 <div align="center">
+
+# About me
 
 Hi I'm Michał, also known as Force.
 </br>
 
 Little bit about me:
 
-⇝ I'm a coding hobbist
+I'm a coding hobbist
 
 </br>
 
@@ -15,10 +15,9 @@ Little bit about me:
 
 You can find me on:
 
-- Github: ![GitHub followers](https://img.shields.io/github/followers/force-7?label=Followers&style=flat-square&logo=github)
-- [LinkedIn](https://www.linkedin.com/in/michał-pawełczyk-7a55461b6/): ![LinkedIn](https://img.shields.io/badge/Name:-Michał%20Pawełczyk-blue?style=flat-square&logo=linkedin)
-- Discord: ![Discord](https://img.shields.io/badge/Tag-Force#0761-blue?style=flat-square&logo=discord)
-
+Github: ![GitHub followers](https://img.shields.io/github/followers/force-7?label=Followers&style=flat-square&logo=github)
+[LinkedIn](https://www.linkedin.com/in/michał-pawełczyk-7a55461b6/): ![LinkedIn](https://img.shields.io/badge/Name:-Michał%20Pawełczyk-blue?style=flat-square&logo=linkedin)
+Discord: ![Discord](https://img.shields.io/badge/Tag-Force%230761-blue?style=flat-square&logo=discord)
 
 
 </br>
@@ -44,9 +43,9 @@ Frameworks:
 </br>
 </div>
 
-## Stats
-
 <div align="center">
+
+## Stats
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=force-7&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -71,6 +70,6 @@ Frameworks:
 <a href="https://www.facebook.com/profile.php?id=100000680847293" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://open.spotify.com/user/1173758352" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
-<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/michał-pawełczyk-7a55461b6/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/forcus7/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/profile.php?id=100000680847293) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/1173758352) -->
+<   !-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/michał-pawełczyk-7a55461b6/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/forcus7/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/profile.php?id=100000680847293) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/1173758352) -->
 
 </div>
