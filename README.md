@@ -30,11 +30,11 @@ Operating Systems:
 
 Preferred Editor:
 
-![VSC](https://img.shields.io/badge/Editor-VSC-blue?style=flat-square&logo=visual-studio-code) ![Azure](https://img.shields.io/badge/Editor-Azure-blue?style=flat-square&logo=microsoft-azure)
+![VSC](https://img.shields.io/badge/Editor-VSC-blue?style=flat-square&logo=visual-studio-code) 
 
 Languages:
 
-![Python](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python) ![Java](https://img.shields.io/badge/Code-Java-blue?style=flat-square&logo=java) ![SQL](https://img.shields.io/badge/Code-SQL-blue?style=flat-square&logo=Microsoft-SQL-Server) ![C++](https://img.shields.io/badge/Code-C++-blue?style=flat-square&logo=cplusplus)
+![Python](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?style=flat-square&logo=javascript)  ![SQL](https://img.shields.io/badge/Code-SQL-blue?style=flat-square&logo=Microsoft-SQL-Server) ![C++](https://img.shields.io/badge/Code-C++-blue?style=flat-square&logo=cplusplus)
 
 Frameworks:
 
