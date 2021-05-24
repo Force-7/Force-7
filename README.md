@@ -27,6 +27,7 @@ Discord: ![Discord](https://img.shields.io/badge/Tag-Force%230761-blue?style=fla
 Operating Systems:
 
 ![Windows](https://img.shields.io/badge/OS-Win10-blue?style=flat-square&logo=windows)
+![Linux](https://img.shields.io/badge/OS-Ubuntu-blue?style=flat-square&logo=ubuntu)
 
 Preferred Editor:
 
