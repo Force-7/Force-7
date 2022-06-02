@@ -35,11 +35,11 @@ Preferred Editor:
 
 Languages:
 
-![Python](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?style=flat-square&logo=javascript)  ![SQL](https://img.shields.io/badge/Code-SQL-blue?style=flat-square&logo=Microsoft-SQL-Server) ![C++](https://img.shields.io/badge/Code-C++-blue?style=flat-square&logo=cplusplus)
+![Python](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?style=flat-square&logo=javascript)  ![HTML](https://img.shields.io/badge/Code-HTML-blue?style=flat-square&logo=HTML) ![CSS](https://img.shields.io/badge/Code-CSS-blue?style=flat-square&logo=CSS) 
 
 Frameworks:
 
-![Git](https://img.shields.io/badge/Tool-Git-blue?style=flat-square&logo=git) ![Github](https://img.shields.io/badge/Tool-Github-blue?style=flat-square&logo=github)![Trello](https://img.shields.io/badge/Tool-Trello-blue?style=flat-square&logo=trello) ![MySQL](https://img.shields.io/badge/Tool-MySQL-blue?style=flat-square&logo=MySQL) ![SQLite](https://img.shields.io/badge/Tool-SQLite-blue?style=flat-square&logo=SQLite)
+![Github](https://img.shields.io/badge/Tool-Github-blue?style=flat-square&logo=github)![Trello](https://img.shields.io/badge/Tool-Trello-blue?style=flat-square&logo=trello) ![MySQL](https://img.shields.io/badge/Tool-MySQL-blue?style=flat-square&logo=MySQL) ![SQLite](https://img.shields.io/badge/Tool-SQLite-blue?style=flat-square&logo=SQLite) ![React](https://img.shields.io/badge/Tool-React-blue?style=flat-square&logo=React) 
 
 </br>
 </div>
