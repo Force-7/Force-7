@@ -28,7 +28,7 @@ Languages, Tools:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,bootstrap,css,express,github,html,nextjs, mongodb, mysql, nodejs, py, sass, sqlite, tailwind, vscode, react" />
+    <img src="https://skillicons.dev/icons?i=js,ts,bootstrap,css,express,github,html,nextjs,mongodb,mysql,nodejs,py,sass,sqlite,tailwind,vscode,react" />
   </a>
 </p>
 
