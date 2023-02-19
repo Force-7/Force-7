@@ -35,6 +35,12 @@ Preferred Editor:
 
 Languages:
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 ![Python](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?style=flat-square&logo=javascript)  ![HTML](https://img.shields.io/badge/Code-HTML-blue?style=flat-square&logo=HTML) ![CSS](https://img.shields.io/badge/Code-CSS-blue?style=flat-square&logo=CSS) 
 
 Frameworks:
