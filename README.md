@@ -1,7 +1,7 @@
 <div align="center">
 
 # About me
-
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=29CFDC&center=true&vCenter=true&width=500&height=100&lines=Front-End+Developer" alt="welcome" /> </p>
 Hi I'm Michał, also known as Force.
 </br>
 
