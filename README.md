@@ -24,28 +24,13 @@ Discord: ![Discord](https://img.shields.io/badge/Tag-Force%230761-blue?style=fla
 
 ## Skills
 
-Operating Systems:
-
-![Windows](https://img.shields.io/badge/OS-Win10-blue?style=flat-square&logo=windows)
-![Linux](https://img.shields.io/badge/OS-Ubuntu-blue?style=flat-square&logo=ubuntu)
-
-Preferred Editor:
-
-![VSC](https://img.shields.io/badge/Editor-VSC-blue?style=flat-square&logo=visual-studio-code) 
-
-Languages:
+Languages, Tools:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=js,ts,bootstrap,css,express,github,html,nextjs, mongodb, mysql, nodejs, py, sass, sqlite, tailwind, vscode, react" />
   </a>
 </p>
-
-![Python](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?style=flat-square&logo=javascript)  ![HTML](https://img.shields.io/badge/Code-HTML-blue?style=flat-square&logo=HTML) ![CSS](https://img.shields.io/badge/Code-CSS-blue?style=flat-square&logo=CSS) 
-
-Frameworks:
-
-![Github](https://img.shields.io/badge/Tool-Github-blue?style=flat-square&logo=github)![Trello](https://img.shields.io/badge/Tool-Trello-blue?style=flat-square&logo=trello) ![MySQL](https://img.shields.io/badge/Tool-MySQL-blue?style=flat-square&logo=MySQL) ![SQLite](https://img.shields.io/badge/Tool-SQLite-blue?style=flat-square&logo=SQLite) ![React](https://img.shields.io/badge/Tool-React-blue?style=flat-square&logo=React) 
 
 </br>
 </div>
